@@ -1,0 +1,26 @@
+.icon {
+  width: 1rem;
+  height: 1rem;
+}
+
+.chevron {
+  width: 1rem;
+  height: 1rem;
+  opacity: 0.7;
+  transition: transform var(--animation-duration-fast) ease;
+}
+
+.chevronOpen {
+  transform: rotate(180deg);
+}
+
+.dropdownContent {
+  width: 12rem;
+}
+
+.menuIcon {
+  width: 1rem;
+  height: 1rem;
+  margin-right: var(--spacing-2);
+  color: var(--muted-foreground);
+}
