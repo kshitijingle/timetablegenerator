@@ -1,0 +1,29 @@
+.contextMenuContent {
+  width: 180px;
+}
+
+.menuIcon {
+  width: 1rem;
+  height: 1rem;
+  margin-right: var(--spacing-2);
+  color: var(--muted-foreground);
+}
+
+.destructiveItem {
+  color: var(--error);
+}
+
+.destructiveItem:hover,
+.destructiveItem:focus-visible {
+  background-color: color-mix(in srgb, var(--error) 10%, transparent);
+  color: var(--error);
+}
+
+.destructiveItem[data-highlighted] {
+  background-color: var(--error);
+  color: var(--error-foreground);
+}
+
+.destructiveItem .menuIcon {
+  color: currentColor;
+}
