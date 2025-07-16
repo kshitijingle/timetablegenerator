@@ -2,7 +2,7 @@
         
 Smart School Timetable Generator — Dynamic Teacher-Classroom Scheduling
 
-Build an app that automates the creation of school timetables by intelligently assigning teachers to classrooms based on a wide range of constraints. The app should generate weekly schedules that optimize teaching hours, avoid conflicts, and ensure fair distribution of workload.
+A web app that automates the creation of school timetables by intelligently assigning teachers to classrooms based on a wide range of constraints. The app WILL generate weekly schedules that optimize teaching hours, avoid conflicts, and ensure fair distribution of workload.
 
 Inputs:
 School Parameters:
