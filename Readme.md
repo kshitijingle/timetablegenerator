@@ -43,6 +43,10 @@ Advanced Options:
 
 Built with Combini.
 
+TO DOS:
+1. Build a Conflict Resolution System > Identify potential scheduling conflicts and prevent them beforehand without requiring human intervention.
+2. Implement Co-Teaching - the option is present but it doesn't work. Plans to update it in future.
+
 # How to use
 
 1. Import CombiniSetup.css to set up the css variables and basic styles.
