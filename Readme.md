@@ -41,7 +41,7 @@ Advanced Options:
 * Suggest optimal changes in subject frequencies or teacher loads
 * Optionally allow co-teaching (two teachers in one period)
 
-Built with Combini.
+Built with Combini(now Floot)
 
 TO DOS:
 1. Build a Conflict Resolution System > Identify potential scheduling conflicts and prevent them beforehand without requiring human intervention.
